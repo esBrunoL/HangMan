@@ -46,8 +46,8 @@ A beautifully designed, professional-quality Hangman word guessing game built wi
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/flutter-hangman-game.git
-   cd flutter-hangman-game
+   git clone https://github.com/esBrunoL/HangMan.git
+   cd HangMan
    ```
 
 2. **Install dependencies**
