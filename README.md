@@ -3,8 +3,15 @@
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-🎮_Play_Now-brightgreen.svg?style=for-the-badge)](https://esBrunoL.github.io/HangMan/)
 
 A beautifully designed, professional-quality Hangman word guessing game built with Flutter and Provider state management. Features modern UI design, smooth animations, and an engaging user experience.
+
+## 🌐 Live Demo
+
+**🎮 [Play the game online now!](https://esBrunoL.github.io/HangMan/)**
+
+Experience the full Flutter Hangman game directly in your browser - no installation required!
 
 ## 🎯 Game Features
 
@@ -148,6 +155,14 @@ dev_dependencies:
 - **Letter Handling**: Instant reveal of all matching letter positions
 - **State Persistence**: Complete game state management throughout session
 - **Performance**: Optimized for smooth 60fps gameplay
+
+## 🌐 Deployment
+
+### GitHub Pages
+The game is automatically deployed to GitHub Pages using the `gh-pages` branch:
+- **Live URL**: https://esBrunoL.github.io/HangMan/
+- **Auto-deployment**: Optimized web build with correct base href
+- **PWA Ready**: Includes manifest.json and service worker for offline play
 
 ## 🤝 Contributing
 
